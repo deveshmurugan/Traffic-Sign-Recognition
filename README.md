@@ -1,4 +1,4 @@
-# Traffic-Sign-Recognition
+# Traffic-Sign-Recognition Dataset
 
 One of the most important component of autonomous vehicles is to recognize traffic signs it encounters. In this Python project a Convolutional Neural Network (CNN) is designed which classifies traffic signs into one on 43 different signs. With this model, we are able to read and understand traffic signs.
 ### Dataset
